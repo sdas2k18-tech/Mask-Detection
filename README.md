@@ -3,3 +3,5 @@ Masked face Recognisation: Detecting whether a person is wearing a mask or not. 
 application: offices, railway stations , public transport etc.
 Need: covid -19 prevention measure.
 Aim: to make a software and implement it in existing cameras.
+
+Tech Stack- python, image classification, CNN, OpenCV
